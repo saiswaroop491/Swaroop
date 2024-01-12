@@ -1,2 +1,2 @@
-HTML Assignments# Swaroop
-I did many projects I didn't uploaded here!! sooner I will update those 
+HTML Assignments,SQL Assignments,Machine Learning Projects and pytho assignemnts and projects
+I did so far are updated here 
